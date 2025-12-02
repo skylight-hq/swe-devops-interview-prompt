@@ -12,7 +12,7 @@ For the purpose of this interview, I'm one of the junior developers. Please guid
 
 ## Requirements
 
-The requirements and coverage percentage for the forms above are as follows:
+The requirements and coverage percentage for the _existing_ forms are as follows:
 
 **Child Day Care (Form B202)**
 
@@ -27,7 +27,9 @@ The requirements and coverage percentage for the forms above are as follows:
 * Receives: 90% coverage if household income (HHI) is $20,000 and below
 * Receives: 50% coverage if household income (HHI) is between $20,000 and $50,000
 
-The requirements and coverage percentage for this form are as follows:
+---
+
+The requirements and coverage percentage for the _new_ form are as follows:
 
 **Special Needs Care (Form Z452)**
 
