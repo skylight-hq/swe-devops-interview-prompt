@@ -37,3 +37,5 @@ The requirements and coverage percentage for the _new_ form are as follows:
 * Receives: 90% coverage if household income (HHI) is $20,000 and below
 * Receives: 50% coverage if household income (HHI) is between $20,000 and  $50,000
 * Receives: Add an additional 10% if a single-parent household
+
+© Skylight Inc. All rights reserved.
